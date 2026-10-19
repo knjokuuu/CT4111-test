@@ -1,5 +1,5 @@
 def list_product(nums):
-    result = 0
+    result = 1
     for x in nums:
         result *= x
     return result
